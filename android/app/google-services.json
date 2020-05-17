@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "713383945610",
+    "firebase_url": "https://reactdemo-af6d0.firebaseio.com",
+    "project_id": "reactdemo-af6d0",
+    "storage_bucket": "reactdemo-af6d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713383945610:android:6ecc2c5414f325aa215473",
+        "android_client_info": {
+          "package_name": "com.reactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713383945610-41b8so1g3gagena5pdp1qlk4so55rmib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj6qKZ4Z-Rdr-zTuwvvhXF6xHLRtNYlsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713383945610-41b8so1g3gagena5pdp1qlk4so55rmib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
