@@ -24,7 +24,6 @@ export default class FirstPage extends Component {
     componentDidMount(){
 
         messaging().getToken().then(token => {
-          
           console.log(token);
         });
 
